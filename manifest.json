@@ -1,0 +1,16 @@
+{
+  "name": "cannabis-dispensary",
+  "short_name": "cannabis-dispensary",
+  "theme_color": "#248162",
+  "background_color": "#fafafa",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "assets/img/logo-2.png",
+      "sizes": "343x376",
+      "type": "image/png"
+    }
+  ]
+}
